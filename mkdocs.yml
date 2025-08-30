@@ -1,0 +1,32 @@
+site_name: Procedural Maze Generator (Unity)
+site_description: Procedural maze generator with pillars, walls, floors, sand terrain and a demo player controller.
+site_url: https://YOURUSERNAME.github.io/maze-generator-site
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+    - search.highlight
+    - toc.follow
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Install: install.md
+      - Usage: usage.md
+  - Features: features.md
+  - FAQ: faq.md
+  - Changelog: changelog.md
+  - Support: support.md
+  - Privacy: privacy.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+plugins:
+  - search
