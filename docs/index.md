@@ -37,14 +37,7 @@ Procedural maze generator with pillars, walls, floors, sand terrain and a demo p
 
 ---
 
-# Install
-
-## Requirements
-- Unity 2022.3 LTS and above (works in 2021 but with controller issues)
-- Built-in Render Pipeline (URP/HDRP supported with material conversion)
-- No third-party dependencies
-
-## Steps
+## Quick Start Steps
 1. Open your project → **Window → Package Manager → My Assets**.
 2. Download and import the asset
 3. Open the sample demo scene or drop the maze generator prefab into your scene.
