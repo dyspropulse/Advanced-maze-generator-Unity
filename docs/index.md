@@ -1,4 +1,4 @@
-# Procedural Maze Generator (Unity)
+# Advanced Maze Generator (Unity)
 
 [➡Get it on the Unity Asset Store]
 
