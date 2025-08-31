@@ -2,7 +2,8 @@
 
 Generate fast, fully customizable 3D mazes with walls, floors, pillars, sand terrain, and a ready-to-use demo player controller.
 
-[➡ Get it on the Unity Asset Store]
+[➡Get it on the Unity Asset Store]
+
 [📚 Documentation](./MazeGeneratorDoc.pdf/) • [💬 Support](./support/)
 
 ---
