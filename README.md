@@ -14,5 +14,5 @@ Generate fully customizable procedural 3D mazes with walls, floors, pillars, san
 ## 💬 Support
 - [Support Page](./docs/support.md)
 
-## 🌐 Main Page
-- [Main Page](/docs/index.md)
+## 🌐 Details
+- [Details page](/docs/index.md)
