@@ -15,4 +15,4 @@ Generate fully customizable 3D mazes with walls, floors, pillars, sand terrain, 
 - [Support Page](./docs/support.md)
 
 ## 🌐 Main Page
-- [Main Page](https://github.com/dyspropulse/Advanced-maze-generator-site/)
+- [Main Page](/docs/index.md)
