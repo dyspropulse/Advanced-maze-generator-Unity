@@ -3,7 +3,7 @@
 Generate fast, fully customizable 3D mazes with walls, floors, pillars, sand terrain, and a ready-to-use demo player controller.
 
 [➡ Get it on the Unity Asset Store]
-[📚 Documentation](./usage/) • [🛠 Features](./features/) • [💬 Support](./support/)
+[📚 Documentation](./MazeGeneratorDoc.pdf/) • [💬 Support](./support/)
 
 ---
 
@@ -29,7 +29,7 @@ Procedural maze generator with pillars, walls, floors, sand terrain and a demo p
 
 ---
 
-## Technical Details
+## 🛠 Technical Details
 - **Unity Version Tested:** 2022.3 LTS and above  
   *(Maze generation works in 2021 but player controller physics differ due to Rigidbody changes)*
 - **Pipeline Compatibility:** Built-in (works with URP/HDRP via material conversion)  
@@ -45,8 +45,13 @@ Procedural maze generator with pillars, walls, floors, sand terrain and a demo p
 - No third-party dependencies
 
 ## Steps
-1. Purchase/download from the Unity Asset Store.
-2. Open your project → **Window → Package Manager → My Assets**.
-3. Import *Procedural Maze Generator*.
-4. Open the sample demo scene → press **Play**.
+1. Open your project → **Window → Package Manager → My Assets**.
+2. Download and import the asset
+3. Open the sample demo scene or drop the maze generator prefab into your scene.
+4. Adjust Width / Height in the inspector if needed.
+5. Press Generate in the inspector to generate and clear to clear instances.
+
+
+
+
 
