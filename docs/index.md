@@ -25,7 +25,7 @@ Procedural maze generator with pillars, walls, floors, sand terrain and a demo p
   - Other: 1 pillar, 8 intermediary prefabs
 - **Meshes:** 42 (walls, floors, pillars, decorations)
 - **Materials:** Simple wall/floor/terrain materials
-- **Demo Scene:** Ready-to-play maze + prefab + player
+- **Demo Scene:** Ready-to-gen maze + player controller
 - **Documentation:** Full PDF manual included
 
 ---
