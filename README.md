@@ -1,4 +1,4 @@
-# Procedural Maze Generator (Unity)
+# Advanced Maze Generator (Unity)
 
 Generate fully customizable 3D mazes with walls, floors, pillars, sand terrain, and a demo player controller.  
 
