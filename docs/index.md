@@ -41,7 +41,7 @@ Procedural maze generator with pillars, walls, floors, sand terrain and a demo p
 ## Quick Start Steps
 1. Open your project → **Window → Package Manager → My Assets**.
 2. Download and import the asset
-3. Open the sample demo scene or drop the maze generator prefab into your scene.
+3. Open the exemple scene or drop the maze generator prefab into your scene.
 4. Adjust Width / Height in the inspector if needed.
 5. Press Generate in the inspector to generate and clear to clear instances.
 
