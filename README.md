@@ -8,11 +8,14 @@ Generate fully customizable procedural 3D mazes with walls, floors, pillars, san
 
 ---
 
-## 📄 Documentation
+## Documentation
 - [Full PDF Manual](./docs/MazeGeneratorDoc.pdf)
 
-## 💬 Support
+## Support
 - [Support Page](./docs/support.md)
 
-## 🌐 Details
+## Details
 - [Details page](/docs/index.md)
+
+## Asset store link 
+- not published yet
