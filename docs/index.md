@@ -1,7 +1,5 @@
 # Advanced Maze Generator (Unity)
 
-[➡Get it on the Unity Asset Store]
-
 [📚 Documentation](./MazeGeneratorDoc.pdf/) • [💬 Support](./support.md/) • [🏠 Home page](../)  
 
 ---
