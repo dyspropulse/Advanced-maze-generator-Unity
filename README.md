@@ -18,7 +18,7 @@ Generate fully customizable procedural 3D mazes with walls, floors, pillars, san
 - [Details page](/docs/index.md)
 
 ## Asset store link 
-- not published yet
+-  https://assetstore.unity.com/packages/slug/330988 
 
 
 
